@@ -1,0 +1,8 @@
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cadastrar Cliente\Cadastrar Cliente\bin\Debug\Cadastrar Cliente.exe.config
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cadastrar Cliente\Cadastrar Cliente\bin\Debug\Cadastrar Cliente.exe
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cadastrar Cliente\Cadastrar Cliente\bin\Debug\Cadastrar Cliente.pdb
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cadastrar Cliente\Cadastrar Cliente\obj\Debug\Cadastrar Cliente.csproj.AssemblyReference.cache
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cadastrar Cliente\Cadastrar Cliente\obj\Debug\Cadastrar Cliente.csproj.SuggestedBindingRedirects.cache
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cadastrar Cliente\Cadastrar Cliente\obj\Debug\Cadastrar Cliente.csproj.CoreCompileInputs.cache
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cadastrar Cliente\Cadastrar Cliente\obj\Debug\Cadastrar Cliente.exe
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cadastrar Cliente\Cadastrar Cliente\obj\Debug\Cadastrar Cliente.pdb
